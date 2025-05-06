@@ -1,1 +1,2 @@
 # XSDD-DET
+The XSDD-DET dataset contains 1360 defect images, covering seven typical surface defects of strip steel, namely: Finishing roll printing (Fr), Oxide scale of plate system (OSP), Slag inclusion (Si), Surface scratch (Ss), Iron sheet ash (Is), Red iron (Ri), and Oxide scale of temperature system (Ost). It is divided into a training set and a testing set in an 8:2 ratio, with the training set containing 1088 images and the testing set containing 272 images. The resolution of each image is 128 × 128. 
